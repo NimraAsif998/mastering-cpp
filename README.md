@@ -1,3 +1,4 @@
+![C++](./C++.png)
 # C++ Programming Course
 
 Welcome to the C++ Programming Course! This repository is designed for beginners who want to learn C++ from scratch. The course covers programming fundamentals, Object-Oriented Programming (OOP), problem-solving techniques, and practical examples.

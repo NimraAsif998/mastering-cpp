@@ -64,7 +64,6 @@
 ## Module 9: Standard Template Library (STL)
 
 * Vectors
-* Lists
 * Stacks
 * Queues
 

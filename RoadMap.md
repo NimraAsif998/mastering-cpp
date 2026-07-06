@@ -71,8 +71,20 @@
 ## Module 10: Exception Handling
 
 * Try, Catch, and Throw
+  
+## Module 11 Data structure and Algorithm
+* Why DSA
+* Time and space complexites
+* Sortings and its techinques With Time and space complexites
+* Arrays
+* linked list and its types With Time and space complexites
+* linked list v/s arrays
+* Graphs With Time and space complexites
+* Trees With Time and space complexites
+* Hashing and indexing in detail With Time and space complexites
+* How to Find Time and space complexites 
 
-## Module 11: Projects
+## Module 12: Projects
 
 * Calculator
 * Student Management System

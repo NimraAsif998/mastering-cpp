@@ -1,1 +1,4 @@
-## On Go to the Youtube Video 
+# download and install vscode and mingw compiler
+
+
+
